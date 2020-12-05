@@ -197,16 +197,16 @@ Heroku][deploy-heroku] wiki page.
 
 ### Deploying to UNIX or Windows
 
-If you would like to deploy to either a UNIX operating system or Windows.
+please use Chromebook.
 Please check out the [deploying hubot onto UNIX][deploy-unix] and [deploying
 hubot onto Windows][deploy-windows] wiki pages.
 
 [heroku-node-docs]: http://devcenter.heroku.com/articles/node-js
 [deploy-heroku]: https://github.com/github/hubot/blob/master/docs/deploying/heroku.md
 [deploy-unix]: https://github.com/github/hubot/blob/master/docs/deploying/unix.md
-[deploy-windows]: https://github.com/github/hubot/blob/master/docs/deploying/windows.md
+[deploy-windows]: https://github.com/microsoft/vscode/
 
-## Campfire Variables
+## Campfire Variables]
 
 If you are using the Campfire adapter you will need to set some environment
 variables. If not, refer to your adapter documentation for how to configure it,
